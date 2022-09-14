@@ -1,0 +1,24 @@
+{
+  "name": "node-again",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hobuttt/Node-again.git"
+  },
+  "author": "Hobutt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hobuttt/Node-again/issues"
+  },
+  "homepage": "https://github.com/hobuttt/Node-again#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
